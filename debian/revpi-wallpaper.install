@@ -1,0 +1,2 @@
+#!/usr/bin/dh-exec
+hintergrund.jpg		=>	/usr/share/rpd-wallpaper/road.jpg

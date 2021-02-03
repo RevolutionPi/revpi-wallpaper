@@ -1,0 +1,18 @@
+revpi-wallpaper (1.0.0-3) stretch; urgency=medium
+
+  * clean up some lintian warnings
+
+ -- Zhi Han <z.han@kunbus.com>  Wed, 10 Feb 2021 09:21:56 +0100
+
+revpi-wallpaper (1.0.0-2) stable; urgency=medium
+
+  * Wallpapers were moved to /usr/share/rpd-wallpaper with stretch
+    (instead of /usr/share/pixel-wallpaper on jessie)
+
+ -- Kunbus <admin@kunbus.de>  Wed, 23 May 2017 07:00:00 +0200
+
+revpi-wallpaper (1.0.0-1) stable; urgency=medium
+
+  * Initial release
+
+ -- Kunbus <admin@kunbus.de>  Wed, 01 Feb 2017 15:00:00 +0100
