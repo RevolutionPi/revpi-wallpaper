@@ -9,9 +9,7 @@ Homepage: https://revolution.kunbus.com/
 Package: revpi-wallpaper
 Architecture: all
 Depends: ${misc:Depends}
-Provides: pixel-wallpaper
-Replaces: pixel-wallpaper
-Breaks: pixel-wallpaper
+Replaces: pixel-wallpaper, rpd-wallpaper
 Description: Revolution Pi Wallpaper
  Lightweight package to replace the 30 MByte collection of wallpapers
  provided by the pixel-wallpaper package.  Revolution Pi is a set of
