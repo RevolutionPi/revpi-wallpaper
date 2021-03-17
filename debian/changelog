@@ -1,3 +1,10 @@
+revpi-wallpaper (1.0.0-4) buster; urgency=medium
+
+  * change path of hintergrund.jpg to install for buster
+  * add the rpd-wallpaper to the relationship fields
+
+ -- Zhi Han <z.han@kunbus.com>  Wed, 17 Mar 2021 14:39:42 +0100
+
 revpi-wallpaper (1.0.0-3) stretch; urgency=medium
 
   * clean up some lintian warnings
