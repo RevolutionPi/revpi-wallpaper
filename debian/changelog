@@ -1,3 +1,9 @@
+revpi-wallpaper (1.0.0-5) buster; urgency=medium
+
+  * add the file gbp.conf for package building
+
+ -- Zhi Han <z.han@kunbus.com>  Thu, 18 Mar 2021 09:52:54 +0100
+
 revpi-wallpaper (1.0.0-4) buster; urgency=medium
 
   * change path of hintergrund.jpg to install for buster
