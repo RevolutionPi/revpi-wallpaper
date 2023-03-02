@@ -1,10 +1,13 @@
 Source: revpi-wallpaper
 Section: contrib/electronics
 Priority: optional
-Standards-Version: 3.9.8
-Build-Depends: debhelper (>=10), dh-exec
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.3.0
 Maintainer: KUNBUS GmbH <support@kunbus.com>
-Homepage: https://revolution.kunbus.com/
+Homepage: https://revolutionpi.com/
+Vcs-Browser: https://github.com/RevolutionPi/revpi-wallpaper
+Vcs-Git: https://github.com/RevolutionPi/revpi-wallpaper.git
 
 Package: revpi-wallpaper
 Architecture: all
