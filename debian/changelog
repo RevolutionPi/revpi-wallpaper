@@ -1,3 +1,9 @@
+revpi-wallpaper (1.0.0-5+revpi11+1) bullseye; urgency=medium
+
+  * Release for Bullseye
+
+ -- Nicolai Buchwitz <n.buchwitz@kunbus.com>  Fri, 03 Mar 2023 13:05:47 +0100
+
 revpi-wallpaper (1.0.0-5) buster; urgency=medium
 
   * add the file gbp.conf for package building
