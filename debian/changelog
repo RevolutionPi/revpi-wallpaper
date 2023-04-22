@@ -1,3 +1,18 @@
+revpi-wallpaper (1.0.1-1+revpi11+1) bullseye; urgency=medium
+
+  [ Nicolai Buchwitz ]
+  * Remove executable bit
+
+  [ Sven Sager ]
+  * feat: Rename background image with beautiful name
+  * refactor: set new picture file name in install file
+  * feat: add a link to distribution's default wallpaper
+  * refactor: remove pixel-wallpaper from replaces
+  * style: reformat control file
+  * fix: set upstream-branch value in gbp.conf to master
+
+ -- Sven Sager <s.sager@kunbus.com>  Sat, 22 Apr 2023 23:02:40 +0200
+
 revpi-wallpaper (1.0.0-5+revpi11+1) bullseye; urgency=medium
 
   * Release for Bullseye
