@@ -12,7 +12,7 @@ Vcs-Git: https://github.com/RevolutionPi/revpi-wallpaper.git -b raspios/bullseye
 Package: revpi-wallpaper
 Architecture: all
 Depends: ${misc:Depends}
-Replaces: pixel-wallpaper, rpd-wallpaper
+Replaces: rpd-wallpaper
 Description: Revolution Pi Wallpaper
  Lightweight package to replace the 30 MByte collection of wallpapers
  provided by the pixel-wallpaper package.  Revolution Pi is a set of
