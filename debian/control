@@ -1,13 +1,13 @@
 Source: revpi-wallpaper
 Section: contrib/electronics
 Priority: optional
-Rules-Requires-Root: no
-Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.5.1
 Maintainer: KUNBUS GmbH <support@kunbus.com>
+Rules-Requires-Root: no
 Homepage: https://revolutionpi.com/
 Vcs-Browser: https://github.com/RevolutionPi/revpi-wallpaper
 Vcs-Git: https://github.com/RevolutionPi/revpi-wallpaper.git -b raspios/bullseye
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
 
 Package: revpi-wallpaper
 Architecture: all
