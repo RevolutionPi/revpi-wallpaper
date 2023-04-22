@@ -1,0 +1,26 @@
+revpi-wallpaper
+---------------
+
+This package sets the standard wallpaper for the Revolution Pi
+Desktop. It replaces the 'rpd-wallpaper' package, which brings
+various wallpapers for the Raspberry Pi Desktop and consumes storage
+space. In every Raspberry Pi Debian distribution, a different image
+is set as the default in the basic system.
+
+With this package, your own image is installed and a symbolic link is
+set for the standard background image. This does not lead to a file
+conflict with the package 'rpd-wallpaper' by replacing it.
+
+Default names of the distributions:
+    Stretch:    streets.jpg
+    Buster:     temple.jpg
+    Bullseye:   clouds.jpg
+
+rules file
+----------
+
+The 'override_dh_link' is necessary because the path from the source
+image contains a space. This cannot be implemented with the
+'revpi-wallpaper.links'.
+
+-- Sven Sager <s.sager@kunbus.com>  Fri, 21 Apr 2023 19:39:34 +0200

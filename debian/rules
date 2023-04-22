@@ -2,3 +2,7 @@
 
 %:
 	dh $@
+
+override_dh_link:
+	dh_link
+	dh_link '/usr/share/rpd-wallpaper/Revolution Pi.jpg' '/usr/share/rpd-wallpaper/clouds.jpg'
