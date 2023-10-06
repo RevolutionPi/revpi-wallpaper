@@ -1,5 +1,5 @@
 Source: revpi-wallpaper
-Section: contrib/electronics
+Section: electronics
 Priority: optional
 Maintainer: KUNBUS GmbH <support@kunbus.com>
 Rules-Requires-Root: no
