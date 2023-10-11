@@ -1,3 +1,11 @@
+revpi-wallpaper (1.0.1-1+revpi12+1) bookworm; urgency=medium
+
+  * packaging: Fix deprecated values in control file
+  * packaging: Update debian files for debian bookworm
+  * packaging: Set new default Wallpaper name in dh_link
+
+ -- Sven Sager <s.sager@kunbus.com>  Wed, 11 Oct 2023 09:36:04 +0200
+
 revpi-wallpaper (1.0.1-1+revpi11+1) bullseye; urgency=medium
 
   [ Nicolai Buchwitz ]
