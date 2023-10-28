@@ -1,3 +1,10 @@
+revpi-wallpaper (1.0.1-1+revpi12+2) bookworm; urgency=medium
+
+  * Revert "packaging: Set new default Wallpaper name in dh_link"
+  * packaging: Set new default Wallpaper name in dh_link
+
+ -- Sven Sager <s.sager@kunbus.com>  Sat, 28 Oct 2023 15:04:00 +0200
+
 revpi-wallpaper (1.0.1-1+revpi12+1) bookworm; urgency=medium
 
   * packaging: Fix deprecated values in control file
